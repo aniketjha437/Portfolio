@@ -1,3 +1,4 @@
+// Resume.jsx
 import React from "react";
 import "./Resume.css";
 
@@ -13,17 +14,18 @@ const Resume = () => {
           <li>
             <strong>B.Sc IT (2022-2025)</strong> - <em>CGPA: 9.32 / 93%</em>
             <br />
-            Top Performer, 1st Rank among 100+ students
+            Shaheed Dunichand Kalani College, University Of Mumbai - Top Performer,
+            1st Rank among some students
           </li>
           <li>
-            <strong>Intermediate (12th)</strong> - <em>Percentage: 92%</em>
+            <strong>Intermediate (12th)</strong> - <em>Percentage: 62.33%</em>
             <br />
-            XYZ College, Board Name
+            Shaheed Dunichand Kalani College, Maharashtra Board
           </li>
           <li>
-            <strong>High School (10th)</strong> - <em>Percentage: 95%</em>
+            <strong>High School (10th)</strong> - <em>Percentage: 71.21%</em>
             <br />
-            ABC School, Board Name
+            Pet Oxford High School, Maharashtra Board
           </li>
         </ul>
       </div>
