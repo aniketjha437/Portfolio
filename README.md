@@ -21,6 +21,7 @@ Welcome to my personal portfolio! This is a modern, interactive, and visually ap
 
 ## 📂 Project Structure
 
+'''
 PORTFOLIO_FINAL/
 ├── public/
 │ ├── Aniket-Jha-Resume.pdf
@@ -66,7 +67,7 @@ PORTFOLIO_FINAL/
 ├── package.json
 ├── vite.config.js
 └── README.md
-
+'''
 
 ## 🚀 Live Demo
 
