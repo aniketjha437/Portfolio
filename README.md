@@ -1,16 +1,98 @@
-# React + Vite
+# Aniket Jha - Personal Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal portfolio! This is a modern, interactive, and visually appealing portfolio built with **React**, **Vite**, and various modern web technologies.
 
-Currently, two official plugins are available:
+## 🌟 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **React & Hooks:** Functional components using `useState`, `useEffect`, and other React hooks for dynamic UI.
+- **Lottie Animations:** Developer animation added via Lottie JSON for engaging visual effects.
+- **Framer Motion:** Smooth animations and transitions for interactive UI elements.
+- **CSS & Tailwind:** Combination of custom CSS and Tailwind CSS for responsive layouts.
+- **Material UI:** Modern UI components for clean design.
+- **EmailJS Integration:** Contact form with live email functionality.
+- **Responsive Design:** Works on desktops, tablets, and mobile devices.
 
-## React Compiler
+## 💻 Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- **Frontend:** React.js, Vite, HTML5, CSS3, Tailwind CSS, Material UI
+- **Animations:** Lottie, Framer Motion
+- **Form Handling & Email:** EmailJS
+- **Version Control:** Git & GitHub
 
-## Expanding the ESLint configuration
+## 📂 Project Structure
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+PORTFOLIO_FINAL/
+├── public/
+│ ├── Aniket-Jha-Resume.pdf
+│ ├── logo.png
+│ └── vite.svg
+├── src/
+│ ├── assets/
+│ │ ├── animations/
+│ │ │ └── developer animation.json
+│ │ ├── pic.png
+│ │ └── react.svg
+│ ├── components/
+│ │ ├── About/
+│ │ │ ├── About.jsx
+│ │ │ └── About.css
+│ │ ├── Contact/
+│ │ │ ├── Contact.jsx
+│ │ │ └── Contact.css
+│ │ ├── Home/
+│ │ │ ├── Home.jsx
+│ │ │ └── Home.css
+│ │ ├── Navbar/
+│ │ │ ├── Navbar.jsx
+│ │ │ └── Navbar.css
+│ │ ├── Projects/
+│ │ │ ├── Projects.jsx
+│ │ │ └── Projects.css
+│ │ ├── Resume/
+│ │ │ ├── Resume.jsx
+│ │ │ └── Resume.css
+│ │ ├── Separator/
+│ │ │ ├── Separator.jsx
+│ │ │ └── Separator.css
+│ │ ├── Skills/
+│ │ │ ├── Skills.jsx
+│ │ │ └── Skills.css
+│ │ └── ThankYou/
+│ │ ├── ThankYou.jsx
+│ │ └── ThankYou.css
+│ ├── App.jsx
+│ ├── index.css
+│ └── main.jsx
+├── package.json
+├── vite.config.js
+└── README.md
+
+
+## 🚀 Live Demo
+
+Check out the live portfolio here: [https://aniket-jha-portfolioo.vercel.app/](https://aniket-jha-portfolioo.vercel.app/)
+
+## 🔧 Installation
+
+To run this project locally:
+
+```bash
+# Clone the repository
+git clone https://github.com/username/portfolio.git
+
+# Navigate to project folder
+cd portfolio
+
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
+
+
+📞 Contact
+
+You can reach me via email: aniketjha7249@gmail.com
+
+Portfolio built with ❤️ by Aniket Jha
+
