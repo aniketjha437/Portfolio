@@ -21,53 +21,53 @@ Welcome to my personal portfolio! This is a modern, interactive, and visually ap
 
 ## 📂 Project Structure
 
-'''
+```text
 PORTFOLIO_FINAL/
 ├── public/
-│ ├── Aniket-Jha-Resume.pdf
-│ ├── logo.png
-│ └── vite.svg
+│   ├── Aniket-Jha-Resume.pdf
+│   ├── logo.png
+│   └── vite.svg
 ├── src/
-│ ├── assets/
-│ │ ├── animations/
-│ │ │ └── developer animation.json
-│ │ ├── pic.png
-│ │ └── react.svg
-│ ├── components/
-│ │ ├── About/
-│ │ │ ├── About.jsx
-│ │ │ └── About.css
-│ │ ├── Contact/
-│ │ │ ├── Contact.jsx
-│ │ │ └── Contact.css
-│ │ ├── Home/
-│ │ │ ├── Home.jsx
-│ │ │ └── Home.css
-│ │ ├── Navbar/
-│ │ │ ├── Navbar.jsx
-│ │ │ └── Navbar.css
-│ │ ├── Projects/
-│ │ │ ├── Projects.jsx
-│ │ │ └── Projects.css
-│ │ ├── Resume/
-│ │ │ ├── Resume.jsx
-│ │ │ └── Resume.css
-│ │ ├── Separator/
-│ │ │ ├── Separator.jsx
-│ │ │ └── Separator.css
-│ │ ├── Skills/
-│ │ │ ├── Skills.jsx
-│ │ │ └── Skills.css
-│ │ └── ThankYou/
-│ │ ├── ThankYou.jsx
-│ │ └── ThankYou.css
-│ ├── App.jsx
-│ ├── index.css
-│ └── main.jsx
+│   ├── assets/
+│   │   ├── animations/
+│   │   │   └── developer animation.json
+│   │   ├── pic.png
+│   │   └── react.svg
+│   ├── components/
+│   │   ├── About/
+│   │   │   ├── About.jsx
+│   │   │   └── About.css
+│   │   ├── Contact/
+│   │   │   ├── Contact.jsx
+│   │   │   └── Contact.css
+│   │   ├── Home/
+│   │   │   ├── Home.jsx
+│   │   │   └── Home.css
+│   │   ├── Navbar/
+│   │   │   ├── Navbar.jsx
+│   │   │   └── Navbar.css
+│   │   ├── Projects/
+│   │   │   ├── Projects.jsx
+│   │   │   └── Projects.css
+│   │   ├── Resume/
+│   │   │   ├── Resume.jsx
+│   │   │   └── Resume.css
+│   │   ├── Separator/
+│   │   │   ├── Separator.jsx
+│   │   │   └── Separator.css
+│   │   ├── Skills/
+│   │   │   ├── Skills.jsx
+│   │   │   └── Skills.css
+│   │   └── ThankYou/
+│   │       ├── ThankYou.jsx
+│   │       └── ThankYou.css
+│   ├── App.js
+│   ├── index.css
+│   └── main.js
 ├── package.json
 ├── vite.config.js
 └── README.md
-'''
+
 
 ## 🚀 Live Demo
 
